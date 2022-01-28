@@ -9,6 +9,14 @@
 
 class optionFrame : public wxFrame{
 
+    void onContinue(wxCommandEvent& );
+    void onNew(wxCommandEvent&);
+    void onSetting(wxCommandEvent&);
+    void onHelp(wxCommandEvent&);
+    void onQuit(wxCommandEvent&);
+
+    wxDECLARE_EVENT_TABLE();
+
 public:
     optionFrame();
 
