@@ -3,4 +3,8 @@
 myapp
 
 # workspace related CLion folder
+
+
 .idea/
+
+Cmake-build-debug

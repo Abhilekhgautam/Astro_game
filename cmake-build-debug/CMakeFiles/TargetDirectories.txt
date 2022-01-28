@@ -1,3 +1,0 @@
-/home/abhilekh/wxWidgets/Astro_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/abhilekh/wxWidgets/Astro_game/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/abhilekh/wxWidgets/Astro_game/cmake-build-debug/CMakeFiles/FirstC.dir
